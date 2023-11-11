@@ -9,7 +9,7 @@ This Streamlit-based web application converts SQL queries into PySpark syntax us
 To set up the application, you need to install the necessary Python libraries. Run the following command:
 
 ```bash
-pip install streamlit pandas matplotlib seaborn google-generativeai
+pip install streamlit pandas matplotlib seaborn google-generativeai llama_index
 ```
 
 ### Running the Application
